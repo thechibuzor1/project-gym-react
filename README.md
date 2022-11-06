@@ -1,2 +1,2 @@
 # project-gym-react
-react ecomerce  website
+react e-commerce website
